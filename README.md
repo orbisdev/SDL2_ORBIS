@@ -16,7 +16,7 @@ SDL2 for liborbis
   
   Special thanks goes to:
   
-  - xerpi,Cpajuste,rsn887 and others who made SDL-Vita port without it i could not been done it.
+  - xerpi,Cpajuste,rsn8887 and others who made SDL-Vita port without it i could not been done it.
   - Hitodama for his incredible work with ps4sdk.
   - All people involved with liborbis.
   - Of course to the SDL crew for all this stuff.
